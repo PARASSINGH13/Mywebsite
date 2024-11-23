@@ -1,0 +1,64 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/about/page.css",
+      "static/chunks/app/about/page.js"
+    ],
+    "/Resume/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Resume/page.css",
+      "static/chunks/app/Resume/page.js"
+    ],
+    "/Portfolio/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Portfolio/page.css",
+      "static/chunks/app/Portfolio/page.js"
+    ],
+    "/Blog/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Blog/page.css",
+      "static/chunks/app/Blog/page.js"
+    ],
+    "/Contact/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Contact/page.css",
+      "static/chunks/app/Contact/page.js"
+    ],
+    "/Portfolio/chuck-norris/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Portfolio/chuck-norris/page.css",
+      "static/chunks/app/Portfolio/chuck-norris/page.js"
+    ],
+    "/Portfolio/airport/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Portfolio/airport/page.css",
+      "static/chunks/app/Portfolio/airport/page.js"
+    ],
+    "/Portfolio/api/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Portfolio/api/page.css",
+      "static/chunks/app/Portfolio/api/page.js"
+    ]
+  }
+}
